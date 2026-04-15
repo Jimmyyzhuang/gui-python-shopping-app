@@ -21,3 +21,5 @@ The project is a Python GUI shopping app with an interactive chatbot to improve 
 - primethreads.csv: Product data
 - PrimeThreads.gif: GUI image asset
 Apollo
+
+<img width="1002" height="852" alt="Screenshot 2026-04-14 221200" src="https://github.com/user-attachments/assets/de37a7bc-d514-445e-906e-f299187b348c" />
